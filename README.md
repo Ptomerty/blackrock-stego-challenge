@@ -1,4 +1,6 @@
-# blackrock_stego
+# Blackrock Steganography Challenge
+
+[View script here!](blackrock_stego.py)
 
 Before:
 
